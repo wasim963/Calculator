@@ -1,0 +1,44 @@
+html {
+    background-color:#ccdee0 ;
+    color: #6cacc5;
+/*    background-image:
+      radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+      radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);*/
+}
+body {
+    color: blue;
+    font: 300 px "Source Sans Pro",sans-serif;
+    margin: 0;
+    padding: 1px;
+    text-align: center;
+}
+  .num {
+    background: rgba(32,67,103, .28);
+    color:#8a600e;
+    border: none;
+    
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+  }
+  
+  #lcdr{  
+    text-align: right;  
+    width: 230px;  
+    height: 30px;  
+    font-size: 18px;  
+    margin-bottom: 10px;
+      
+   }  
+     
+   #lcdu{
+     text-align: right;
+     width: 230px;
+     height: 30px;  
+    font-size: 18px; 
+     margin-bottom:10px; 
+   }
